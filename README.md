@@ -1,4 +1,4 @@
-# Hi, I'm Simone 👋 *(yes, a real human, not a hallucination)*
+# Hi, I'm Simone 👋 
 
 I'm an Italian CS grad who looked at a blank Python file one day and thought "yeah, this will be fine".
 Spoiler: it was not fine. But here we are — MSc in Data Science @ LUISS, Assistant Researcher in AI, and somehow still going.
