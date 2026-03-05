@@ -1,16 +1,15 @@
 <h1 align="center">Simone Filosofi</h1>
 
-<p align="center">
-  <strong>Curious</strong>
-  <div style="margin: 0 0;">
-    <a href="https://github.com/Bingxi-Jiang">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=10A37F&center=true&vCenter=true&width=500&lines=Exploring+the+latent+space.;Fine-tuning+Large+Language+Models.;Building+agentic+workflows."
-        alt="Typing SVG"
-      />
-    </a>
-  </div>
-</p>
+<p align="center"><strong>Curious</strong></p>
+
+<div align="center">
+  <a href="https://github.com/simonefilosofi">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=10A37F&center=true&vCenter=true&width=500&lines=Exploring+the+latent+space.;Fine-tuning+Large+Language+Models.;Building+agentic+workflows."
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 <p align="center">
   Italian CS grad who looked at a blank Python file one day and thought "yeah, this will be fine".<br>
