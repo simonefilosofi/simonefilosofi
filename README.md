@@ -1,7 +1,15 @@
 <h1 align="center">Simone Filosofi</h1>
 
 <p align="center">
-  <strong>Data Scientist · ML Engineer · RAG Builder</strong>
+  <strong>Curious</strong>
+  <div style="margin: 0 0;">
+    <a href="https://github.com/Bingxi-Jiang">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=10A37F&center=true&vCenter=true&width=500&lines=Exploring+the+latent+space.;Fine-tuning+Large+Language+Models.;Building+agentic+workflows."
+        alt="Typing SVG"
+      />
+    </a>
+  </div>
 </p>
 
 <p align="center">
