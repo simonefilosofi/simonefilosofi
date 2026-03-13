@@ -1,4 +1,4 @@
-<h1 align="center">Simone Filosofi</h1>
+ <h1 align="center">Simone Filosofi</h1>
 
 <p align="center"><strong>Curious</strong></p>
 
@@ -12,8 +12,8 @@
 </div>
 
 <p align="center">
-  Italian CS grad who looked at a blank Python file one day and thought "yeah, this will be fine".<br>
-  Spoiler: it was not fine. But here we are — MSc in Data Science @ LUISS, and somehow still going.<br><br>
+  Italian CS grad who thought machine learning would be easy until the first model refused to converge. <br>
+  Now doing a MSc in Data Science @ LUISS, building things with data, ML and AI systems. <br>
   Currently deep into AI and genuinely having fun. Though I hear chefs also get to eat their work, so.
 </p>
 
@@ -21,10 +21,9 @@
 
 ## 🛠️ What I'm actually doing with my life
 
-- **Building things nobody asked for** — if there's a problem I can probably over-engineer a solution to it. If there isn't a problem, I'll find one.
-- **Falling into rabbit holes** — something catches my eye, I say "I'll just look into it for 20 minutes", and then it's 2am and I have a GitHub repo. Most of them are private. A man needs his mysteries 👀
-- **Enjoying the process** — the best part isn't finishing, it's the part where you have no idea what you're doing yet and anything seems possible. Some call it curiosity. I call it Tuesday.
-
+- **Building things nobody asked for** — if there’s a problem, I’ll engineer a solution. If there isn’t one, I’ll find something worth fixing.
+- **Curiosity-driven exploration** — usually when something catches my eye, I say "I'll just look into it for 20 minutes"... and then it's 2am and I have a GitHub repo. Most of them are private. A man needs his secrets 👀
+- **Enjoying the process** — the best part isn’t finishing, it’s the moment when you have no idea what you're doing yet and everything still feels possible. Some call it curiosity, I call it Tuesday.
 ---
 
 ## 💻 Tech Stack
@@ -56,7 +55,7 @@
 
 ---
 
-## 📬 Find me before I disappear into another rabbit hole
+## 📬 I’ll reply after I fix “one quick bug”:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simone-filosofi-0017a2b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
