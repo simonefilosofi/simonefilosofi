@@ -60,5 +60,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/simone-filosofi-0017a2b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/simonefilosofi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:simone.filosofi@studenti.luiss.it"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://simonefilosofi.github.io/"><img src="https://img.shields.io/badge/Website-10A37F?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:simonefilosofi@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
